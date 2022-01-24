@@ -2,4 +2,4 @@
 
 link emotiondetectornlp
 
-https://emotiondetectornlp.herokuapp.com/predict
+https://emotiondetectornlp.herokuapp.com/
